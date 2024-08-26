@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "axios": "^1.7.3",
+    "express": "^4.19.2",
+    "sequelize": "^6.37.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "lucassaito",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
